@@ -1,4 +1,4 @@
-COLUMN TABLE "webide_example.db::test" (        
+COLUMN TABLE "webid_example.db::test" (        
         "hno" INTEGER, 
         "type" VARCHAR(10),
         "free" INTEGER, 
