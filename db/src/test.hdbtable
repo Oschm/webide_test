@@ -1,0 +1,6 @@
+COLUMN TABLE "webide_example.db::test" (        
+        "hno" INTEGER, 
+        "type" VARCHAR(10),
+        "free" INTEGER, 
+        "price" DOUBLE, 
+        PRIMARY KEY ("hno", "type") )
